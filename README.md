@@ -1,13 +1,15 @@
-﻿<!--
+<!--
   ============================================================
-  BEFORE PUBLISHING - replace the following placeholders:
-    your.email@domain.com -> your email address (3 occurrences)
-
-  The snake animation requires the workflow file at
-  .github/workflows/snake.yml to be committed alongside this
-  README, and one manual run from the Actions tab.
+  The Pac-Man contribution graph requires the workflow at
+  .github/workflows/pacman.yml to be committed alongside this
+  README, plus one manual run from the Actions tab to create
+  the `output` branch.
   ============================================================
 -->
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=header&animation=fadeIn" alt="" />
+</p>
 
 <h1 align="center">Hi, I'm Ashwin Sai</h1>
 
@@ -21,7 +23,7 @@
   <a href="https://www.linkedin.com/in/ashwin-sai-sinkala-210061378?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:Ashwinsai102@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
   <a href="https://github.com/Graybeep">
@@ -91,7 +93,7 @@ I work at the intersection of data, artificial intelligence, and machine learnin
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Graybeep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Graybeep&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graybeep&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
@@ -103,9 +105,9 @@ I work at the intersection of data, artificial intelligence, and machine learnin
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Graybeep/graybeep/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Graybeep/graybeep/output/github-snake.svg" />
-    <img alt="Animated snake consuming the GitHub contribution graph" src="https://raw.githubusercontent.com/Graybeep/graybeep/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Graybeep/graybeep/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Graybeep/graybeep/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man clearing the GitHub contribution graph" src="https://raw.githubusercontent.com/Graybeep/graybeep/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
@@ -117,13 +119,17 @@ I work at the intersection of data, artificial intelligence, and machine learnin
   <a href="https://www.linkedin.com/in/ashwin-sai-sinkala-210061378?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Ashwin%20Sai%20Sinkala-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40domain.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  <a href="mailto:Ashwinsai102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Ashwinsai102%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
   </a>
 </p>
 
 **LinkedIn:** [Ashwin Sai Sinkala](https://www.linkedin.com/in/ashwin-sai-sinkala-210061378?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-**Email:** [your.email@domain.com](mailto:your.email@domain.com)
+**Email:** [Ashwinsai102@gmail.com](mailto:Ashwinsai102@gmail.com)
 
 **GitHub:** [@Graybeep](https://github.com/Graybeep)
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn" alt="" />
+</p>
